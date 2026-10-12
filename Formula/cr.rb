@@ -1,8 +1,8 @@
 class Cr < Formula
   desc "Common Room from the command-line"
   homepage "https://www.commonroom.io"
-  url "https://registry.npmjs.org/@commonroomio/cli/-/cli-0.2.0.tgz"
-  sha256 "4c24cb9b7697dac5dcae501697de7b223a88f38bddee8a4733c132bdce8eec35"
+  url "https://registry.npmjs.org/@commonroomio/cli/-/cli-0.3.0.tgz"
+  sha256 "43004d38c25137d7a674bb372e3a5ebf4b6de70463634ea595da65712e00353b"
   license "Apache-2.0"
 
   depends_on "node"

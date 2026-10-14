@@ -1,0 +1,19 @@
+Formula/cr.rb
+  s_1f687e8515c402::t_4096ded9ac2cee 4-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "7a327071cd68583499ef9220e8a189d41a2ef544",
+  "prompts": {},
+  "sessions": {
+    "s_1f687e8515c402": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4f67772b-370e-4cc9-9e34-e21314a6f828",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Tehseen Chaudhry <tehseen@commonroom.io>"
+    }
+  }
+}
